@@ -53,9 +53,7 @@ function showMainPane(player)
     zoom.style.maximal_width = 50
     tbl.add({type = "label"})
 
-    tbl.add({type = "checkbox", name = "Screenshot_antialias", state = player_config.antialias, caption = {"Screenshot_antialias"}})
-    tbl.add({type = "label"})
-    tbl.add({type = "label"})
+    mainPane.add({type = "checkbox", name = "Screenshot_antialias", state = player_config.antialias, caption = {"Screenshot_antialias"}})
 
     local tbl2 = mainPane.add({type = "table", name = "table2", colspan = 2})
 
