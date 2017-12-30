@@ -1,12 +1,12 @@
 {
     "name": "Screenshot",
-    "version": "0.15.3",
+    "version": "0.16.0",
     "title": "Screenshot tool",
     "author": "credomane",
     "contact": "https://github.com/credomane/",
     "homepage": "https://github.com/credomane/FactorioMods_Screenshot",
     "description": "Easy way to take screenshots.",
     "license": "MIT  https://opensource.org/licenses/MIT",
-    "factorio_version": "0.15",
+    "factorio_version": "0.16",
     "dependencies": []
 }
